@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 1st year Ph.D.<br>
 Regent’s Park, London, NW1 4SA, UK<br>
-mwang [at] london.edu, wangmeiying98 [at] gmail.com<br>
+mwang@london.edu, wangmeiying98@gmail.com<br>
 [Google scholar](https://scholar.google.com/citations?hl=zh-TW&user=hvSnzi0AAAAJ) | [Github](https://github.com/calfoy) | [Resume](https://www.dropbox.com/s/yf6h8no4uufdht7/Wang%20Meiying%20CV%20220703.pdf?dl=0)
 
 Hi! I'm a researcher interested in behavioral and psychological studies. Currently, I am a 1st year PhD student in Marketing at [London Business School](https://www.london.edu/phd/profiles/). Before joining LBS, I obtained my Bachelor's degree in Social Sciences (psychology) from University of Hong Kong and worked as a research assistant at ShanghaiTech University. I am very curious about the psychological precedents behind people's behaviors, choices and judgments, and I hope to conduct some interesting research that might be informative or change-provoking! 
