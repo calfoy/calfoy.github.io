@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: 微信图片_20200307170436.jpg
+  image: profile_photo.jpg
   address: 
 
 news: true  # includes a list of news items
