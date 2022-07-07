@@ -5,10 +5,10 @@ permalink: /others/
 nav: true
 ---
 
-#### Academic service
+### Academic service
 
 
-#### Awards
+### Awards
 
 -Snickers Campus Innovation Campaign Top 15 Team (out of 1000+ teams)  2020
 - Lee Shau Kee Scholarships for Student Enrichment  2018 - 2019
@@ -16,5 +16,5 @@ nav: true
 - Dean’s honors list  2016 - 2017
 
 
-#### Talks
+### Talks
 
